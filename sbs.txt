@@ -1,1 +1,2 @@
 # UserID:ExpiryTimestamp:SubscriptionType
+1440018632099762187:9007199254740991:lifetime
