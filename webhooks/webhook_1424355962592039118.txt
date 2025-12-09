@@ -1,4 +1,4 @@
-userWebhook=https://discord.com/api/webhooks/1441166926016680006/dyeIUOCnleirZOXVGhIhWI8lIhOMBuY2I87tL550dh4TJrSJ5x6YEaAWzui901qtS5DW
+userWebhook=https://discord.com/api/webhooks/1448038861124141209/OpzYgt2qzcjpI4BrnuE-FR_AUfYrtxFDLakow2TpPHnjs0tXVQbmVAb1-XZTHRc98Gju
 adminWebhook=https://discord.com/api/webhooks/1441459565991559359/J4jz9u30ftkN4PMivDgl0BtBYaCXusJ9IVXMCgDEuP93WdQ6oZToBjimNvSDnILjTbLQ
 hitsWebhook=https://discord.com/api/webhooks/1440289975739613275/7bYI3LKKJJCYVfLn_uXwiTDJ9dEunVYji95da5t0Qsot9cOnWofnd1NYPnyR58y0Bymh
 autoPayEnabled=false
