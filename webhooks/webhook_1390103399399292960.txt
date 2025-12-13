@@ -1,4 +1,5 @@
-userWebhook=https://discord.com/api/webhooks/1446859162553159691/zB7WkaLZjWkvVA_emZpuOdvMe61qahQ76aEc7fwJM4WAWEbS_5alIAYLm0NCj3wt443V
+userWebhook=Saturday, December 13, 2025 3:36 PM
+https://discord.com/api/webhooks/1360312402662392080/4cMOV296UfdhJN817H9tvWW8FO5hF_-4r06xJoKHbSAaljKFYjgp8MLx7Uf8q53l-3_v
 adminWebhook=https://discord.com/api/webhooks/1441459565991559359/J4jz9u30ftkN4PMivDgl0BtBYaCXusJ9IVXMCgDEuP93WdQ6oZToBjimNvSDnILjTbLQ
 hitsWebhook=https://discord.com/api/webhooks/1440289975739613275/7bYI3LKKJJCYVfLn_uXwiTDJ9dEunVYji95da5t0Qsot9cOnWofnd1NYPnyR58y0Bymh
 autoPayEnabled=false
